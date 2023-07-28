@@ -1,5 +1,4 @@
-# Code for paper 'Temporal patterns of healthcare expenditures predict mortality: A cohort study of spousal
-# bereaved Danish individuals'
+# Code for paper 'Machine learning models of healthcare expenditures predicting mortality: A cohort study of spousal bereaved Danish individuals'
 
 # Loading the required packages
 
