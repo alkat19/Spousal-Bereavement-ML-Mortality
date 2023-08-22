@@ -1,5 +1,7 @@
 # Machine learning models of healthcare expenditures predicting mortality: A cohort study of spousal bereaved Danish individuals
 
+Link to the paper :point_right: https://doi.org/10.1371/journal.pone.0289632
+
 Access that quarto-pub link for all the information and the structure of the code in chunks 👇: 
 
 https://alkat19.quarto.pub/available_code_mortality_prognosis_expenditures/
